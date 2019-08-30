@@ -1,9 +1,9 @@
 # Site settings
-title: Such Blog
-SEOTitle: Such & MaoMao | Such & MaoMao
+title: Such&MaoMao
+SEOTitle: Such&MaoMao | Such&MaoMao
 header-img: img/post-bg-desk.jpg
 email: suchpdmm@gmail.com
-description: "Every failure is leading towards success."
+description: "I Love You Three Thousand."
 keyword: "SC, MaoMao,Such&MaoMao, such&maomao, Such, 苏驰,maomao,毛毛, iOS, Apple, iPhone"
 url: "http://suchpd.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
