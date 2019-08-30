@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "Hey, this is BY."
+title: "post"
+description: ""
 header-img: "img/post-bg-rwd.jpg"
 ---
 
