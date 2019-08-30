@@ -1,10 +1,10 @@
 # Site settings
 title: Such Blog
-SEOTitle: Such的博客 | Such Blog
+SEOTitle: Such & MaoMao | Such & MaoMao
 header-img: img/post-bg-desk.jpg
 email: suchpdmm@gmail.com
 description: "Every failure is leading towards success."
-keyword: "SC, Such Blog, Such的博客, Such, 苏驰, iOS, Apple, iPhone"
+keyword: "SC, MaoMao,Such&MaoMao, such&maomao, Such, 苏驰,maomao,毛毛, iOS, Apple, iPhone"
 url: "http://suchpd.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/suchpd/suchpd.github.io.git" # you code repository
