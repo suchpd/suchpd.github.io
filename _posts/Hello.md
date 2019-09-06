@@ -1,14 +1,14 @@
 ---
-layout: post
-title:  Hello Maomao!
-subtitle: Welcome!!!
-date:   2017-09-18
-author: Such
-header-img: "img/post-bg-rwd.jpg"
+layout:     post
+title:      Hello！
+subtitle:   Where the dream begins
+date:       2019-07-06
+author:     SC
+header-img: img/post-bg-coffee.jpg
 catalog: true
+tags:
+  
 ---
-
-## Hello!
 
 Hello Maomao!!!!
 
