@@ -4,7 +4,7 @@ title:      hello maomao
 subtitle:    Where the dream begins
 date:       2019-09-01
 author:     SC
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - hello maomao
